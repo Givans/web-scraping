@@ -1,2 +1,2 @@
 # web-scraping
-Scraping stockwebsites and saving the data in the database 
+Scraping stock websites and saving the data in the database 
